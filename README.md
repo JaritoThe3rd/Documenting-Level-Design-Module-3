@@ -244,3 +244,27 @@ Rewards
 * The Staff of Osturian (GDD 15.2.3)
 
 * Limit random treasure to 50 points
+
+
+<img width="1048" height="582" alt="image" src="https://github.com/user-attachments/assets/78722724-a39a-4998-ba69-a1a3bda89df7" />
+
+
+<img width="1053" height="559" alt="image" src="https://github.com/user-attachments/assets/b44ea0ba-6def-4b0f-901a-96313bc29a69" />
+
+
+<img width="1028" height="518" alt="image" src="https://github.com/user-attachments/assets/b0488d8e-e1f1-4bbf-b18c-57ca7f43a99c" />
+
+
+<img width="1046" height="568" alt="image" src="https://github.com/user-attachments/assets/18bd1589-c784-4df2-92e6-3be032c7be61" />
+
+
+<img width="1049" height="576" alt="image" src="https://github.com/user-attachments/assets/623a6816-0234-4142-8378-24a7684d3970" />
+
+
+<img width="1055" height="568" alt="image" src="https://github.com/user-attachments/assets/d12d5d33-972b-401e-aa5b-2a81878653e2" />
+
+
+<img width="1049" height="571" alt="image" src="https://github.com/user-attachments/assets/de8d7ff8-c1b5-4925-b666-c187c4ad281f" />
+
+
+<img width="1046" height="574" alt="image" src="https://github.com/user-attachments/assets/47d6c9b1-f746-46c8-be8a-4dd3d7d47f96" />
