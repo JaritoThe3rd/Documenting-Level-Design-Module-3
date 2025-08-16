@@ -22,3 +22,20 @@ These are living documents and the lead or level designer will scaffhold the gam
 <img width="1228" height="675" alt="image" src="https://github.com/user-attachments/assets/e6af99fd-99cc-414d-823a-a6fb5481a096" />
 
 
+Level Design Document Template
+This is the template for creating your own Level Design Document. As you go through the document, remove the italicized instruction text and sample text.
+
+
+Concept
+Requirements
+In this section you should include all the gameplay elements that you must achieve in this level.
+
+* The level must continue the ongoing desaturation of color in the environment.
+
+* The player must collect the Staff of Osturian
+
+* The player must have a dialogue with The Lost Monk, and be informed that their sister is still alive.
+
+* The player is introduced to the Grappling Swing move, and is given the opportunity to master it.
+
+* The player must be in possession of either the Book of Alsef or the Frozen Rose to engage with the Lost Monk.
