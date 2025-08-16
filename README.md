@@ -22,9 +22,9 @@ These are living documents and the lead or level designer will scaffhold the gam
 <img width="1228" height="675" alt="image" src="https://github.com/user-attachments/assets/e6af99fd-99cc-414d-823a-a6fb5481a096" />
 
 
-Level Design Document Template
+**Level Design Document Template
 This is the template for creating your own Level Design Document. As you go through the document, remove the italicized instruction text and sample text.
-
+**
 
 Concept
 Requirements
