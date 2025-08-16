@@ -22,12 +22,15 @@ These are living documents and the lead or level designer will scaffhold the gam
 <img width="1228" height="675" alt="image" src="https://github.com/user-attachments/assets/e6af99fd-99cc-414d-823a-a6fb5481a096" />
 
 
-**Level Design Document Template
-This is the template for creating your own Level Design Document. As you go through the document, remove the italicized instruction text and sample text.
-**
+Level Design Document Template
 
-Concept
-Requirements
+
+**This is the template for creating your own Level Design Document. As you go through the document, remove the italicized instruction text and sample text.**
+
+
+Concept Requirements
+
+
 In this section you should include all the gameplay elements that you must achieve in this level.
 
 * The level must continue the ongoing desaturation of color in the environment.
@@ -39,3 +42,205 @@ In this section you should include all the gameplay elements that you must achie
 * The player is introduced to the Grappling Swing move, and is given the opportunity to master it.
 
 * The player must be in possession of either the Book of Alsef or the Frozen Rose to engage with the Lost Monk.
+
+
+Goals
+
+
+**In this section you should include all the gameplay elements that would be good to achieve in this level, but are not critical.**
+
+
+* The player should be able to level up during the level.
+
+* The player should have more opportunities to master the Slash move.
+
+* The level should impose a feeling of melancholy for the fallen civilization.
+
+
+Game Context
+
+
+**In this section you should include the greater gameplay context for the level, including important and relevant information about levels prior to and after this level.**
+
+
+* This level continues the player’s investigation into the Rosa Abbey, started in the previous level.
+
+* The level provides pathing into both levels 2-2 and 2-3.
+  
+
+Setting
+
+
+**In this section you should describe the environment and setting for the level. Use relevant environment information from the Game Design Document.**
+
+
+* The entire level takes place in the tower and catacombs of the Rosa Abbey.
+     * Use assets from env_rosaabbey and env_general_castle
+* Lighting should be kept low and focused in important areas.
+* Rain in all exterior areas.
+
+Time
+
+
+**If your game has seasonal or day/night cycles, include the season and time of day the level should occur in.**
+
+
+Metrics
+
+
+**In this section you should indicate any major metrics difference from the Game Design Document guidelines. If there are no differences, just note that.**
+
+
+Player and player movement
+
+
+**Note any changes to the player or player movement, e.g. extra jump height, increased health, etc.**
+
+
+* The player should continue to suffer from exhaustion effects, as noted in the GDD section 12.3
+
+
+World
+
+**Note any changes to the world, e.g. gravity changes, size differences, etc.**
+
+
+* No major changes.
+
+Items
+
+
+**Note any changes to items or item abilities, e.g. this level requires the use of a grappling hook, etc.**
+
+* The Darkness spell (GDD 14.2.4) has duration x1.5 for the whole level.
+
+
+Narrative & Drama
+
+
+Beat Chart
+
+
+**In this section you should chart out the beats of the level, indicating any rising or falling drama.**
+
+
+Explicit
+
+
+
+**In this section you should indicate any narrative/plot elements that will be revealed to the player in a direct, explicit way.**
+
+* The Player must talk with the Lost Monk, and be informed that their sister is still alive.
+* The Player must be informed of the primary abilities of the Staff of Osturian (GDD 15.2.3)
+
+
+Implicit
+
+
+**In this section you should indicate any narrative/plot elements that should be included in the level, but aren’t directly revealed to the player.**
+
+
+* Tower area
+
+  * The tapestries should imply the story of Osturian (GDD 6.1.1)
+
+  * There should be indications of a fire.
+
+  * All bookshelves should have indications of prior libraries.
+
+* Catacombs area
+
+  * The symbol of the Cult of Ifran (GDD 6.2.1) should be placed above doorways.
+
+ 
+Narrative diagram
+
+
+**In a complete Level Design Document, you might have a narrative diagram for the level. That is out of scope for this course, so this section can be left blank.**
+
+
+* See Appendix A, Narrative
+
+
+Dialogue
+
+
+**In a complete Level Design Document, you might have a complete script for the different dialogues in the level. That is out of scope for this course, so this section can be left blank.**
+
+
+Mapping
+
+
+Pathing diagram
+
+
+**In this section you should create a pathing diagram, indicating the main nodes, zones, and pathways the players can traverse in the level.**
+
+This level consists of two main areas, the Tower and the Catacombs. The Golden Path leads the player upwards to the Tower before the Catacombs, as the encounter with the Lost Monk is the dramatic highlight of the level.
+
+
+<img width="1266" height="997" alt="image" src="https://github.com/user-attachments/assets/694bee8a-924b-4d34-8c98-3c75afd7c573" />
+
+
+Landmarks
+
+
+**In this section you should list the important micro, meso, and macro landmarks in the level.**
+
+* Macro: The tower of the Abbey
+
+* Macro: the central stairway to the tower
+
+* Meso: The door to the Catacombs
+
+* Micro: The door to the Lost Monk’s study
+
+
+Level Map
+
+
+**In this section you should include your proposed level map.**
+
+
+Challenges & Rewards
+
+
+**This is the section where you describe what the challenges are that face the player.**
+
+
+Encounters
+
+
+**Encounters are interactions that may or may not lead to combat or rewards, but do not have combat in them.**
+
+
+* The Lost Monk. The player first meets the Lost Monk in the study in the Catacombs, and through dialogue they either befriend the Monk or initiate combat.
+
+Puzzles
+
+
+**Puzzles are challenges that require mental deduction, and generally do not include combat.**
+
+
+* The Catacombs. A maze of twisty passages, all alike. The player must recognize the symbols above each door to be able to traverse the maze.
+
+
+Combat
+
+
+**Combat encounters include **
+
+* The Lost Monk. Should the player become antagonistic during the dialogue with the Lost Monk, combat ensues.
+
+* Tower Ravens. On Level 3 of the Tower are 6 Dire Ravens (GDD 8.3.2) that attack immediately. They use dive-bomb strategy to keep out of range of the player.
+
+
+Rewards
+
+
+**Rewards are items, objects, and abilities that either provide in-game currency/points or additional abilities.**
+
+
+* The Staff of Osturian (GDD 15.2.3)
+
+* Limit random treasure to 50 points
