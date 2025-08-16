@@ -374,3 +374,6 @@ Rewards
 
 <img width="1168" height="701" alt="image" src="https://github.com/user-attachments/assets/605871fd-64a6-4190-867f-9254ad5d7d20" />
 
+
+<img width="1017" height="532" alt="image" src="https://github.com/user-attachments/assets/0dc18e19-d7bf-4a7d-bf37-8133da0ce62c" />
+
