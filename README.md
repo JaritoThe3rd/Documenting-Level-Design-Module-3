@@ -161,9 +161,6 @@ Narrative diagram
 **In a complete Level Design Document, you might have a narrative diagram for the level. That is out of scope for this course, so this section can be left blank.**
 
 
-* See Appendix A, Narrative
-
-
 Dialogue
 
 
@@ -178,7 +175,7 @@ Pathing diagram
 
 **In this section you should create a pathing diagram, indicating the main nodes, zones, and pathways the players can traverse in the level.**
 
-This level consists of two main areas, the Tower and the Catacombs. The Golden Path leads the player upwards to the Tower before the Catacombs, as the encounter with the Lost Monk is the dramatic highlight of the level.
+This level consists multi linear area where the player has the freedom whenever which path he chooses and which rooms he wants to enter.
 
 
 <img width="1266" height="997" alt="image" src="https://github.com/user-attachments/assets/694bee8a-924b-4d34-8c98-3c75afd7c573" />
@@ -189,13 +186,13 @@ Landmarks
 
 **In this section you should list the important micro, meso, and macro landmarks in the level.**
 
-* Macro: The tower of the Abbey
+* Macro: Research and surgery room
 
-* Macro: the central stairway to the tower
+* Macro: Main hall
 
-* Meso: The door to the Catacombs
-
-* Micro: The door to the Lost Monk’s study
+* Meso: Living quarters
+  
+* Micro: Door to other facilities
 
 
 Level Map
@@ -209,6 +206,7 @@ Challenges & Rewards
 
 **This is the section where you describe what the challenges are that face the player.**
 
+* Fighting against infected and soldiers with limited ammunition and equipment.
 
 Encounters
 
@@ -224,7 +222,7 @@ Puzzles
 **Puzzles are challenges that require mental deduction, and generally do not include combat.**
 
 
-* The Catacombs. A maze of twisty passages, all alike. The player must recognize the symbols above each door to be able to traverse the maze.
+* Probably some valves to turn off when a gas is leaking and door needing to pry open.
 
 
 Combat
@@ -232,9 +230,9 @@ Combat
 
 **Combat encounters include **
 
-* The Lost Monk. Should the player become antagonistic during the dialogue with the Lost Monk, combat ensues.
+* The player would be a hero and a villain at the same time towards the people around the facility./
 
-* Tower Ravens. On Level 3 of the Tower are 6 Dire Ravens (GDD 8.3.2) that attack immediately. They use dive-bomb strategy to keep out of range of the player.
+* Infected will swarm the player and at the same time the soldiers that are clearing the location will slowdown the players' escape.
 
 
 Rewards
@@ -242,10 +240,7 @@ Rewards
 
 **Rewards are items, objects, and abilities that either provide in-game currency/points or additional abilities.**
 
-
-* The Staff of Osturian (GDD 15.2.3)
-
-* Limit random treasure to 50 points
+* Getting more equipment whether its armaments or health packs
 
 
 <img width="1048" height="582" alt="image" src="https://github.com/user-attachments/assets/78722724-a39a-4998-ba69-a1a3bda89df7" />
