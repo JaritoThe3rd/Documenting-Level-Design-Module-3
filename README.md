@@ -25,7 +25,7 @@ These are living documents and the lead or level designer will scaffhold the gam
 Level Design Document Template
 
 
-**This is the template for creating your own Level Design Document. As you go through the document, remove the italicized instruction text and sample text.**
+**This is the template for creating your own Level Design Document. As you go through the document.**
 
 
 Concept Requirements
@@ -33,15 +33,15 @@ Concept Requirements
 
 In this section you should include all the gameplay elements that you must achieve in this level.
 
-* The level must continue the ongoing desaturation of color in the environment.
+* The levelhas a deadspace atmosphere and horrific environment.
 
-* The player must collect the Staff of Osturian
+* The player must look for flashlight, medpacks, and guns to survive.
 
-* The player must have a dialogue with The Lost Monk, and be informed that their sister is still alive.
+* The player must have a monologue while looking out on the room window and seeing the chaos within the facility
 
-* The player is introduced to the Grappling Swing move, and is given the opportunity to master it.
+* The player is introduced to the flashlight, throwable rocks, smoke, and knife then guns. To escape the facility and help other people in need.
 
-* The player must be in possession of either the Book of Alsef or the Frozen Rose to engage with the Lost Monk.
+* The player must be in possession of survival gear to survive beyond the facility.
 
 
 Goals
