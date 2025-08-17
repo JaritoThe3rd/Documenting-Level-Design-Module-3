@@ -50,11 +50,11 @@ Goals
 **In this section you should include all the gameplay elements that would be good to achieve in this level, but are not critical.**
 
 
-* The player should be able to level up during the level.
+* The player should be able to perform stealth killing, firearm engagements, healing, and helping other people.
 
-* The player should have more opportunities to master the Slash move.
+* The player should have more opportunities to master these gameplay mechanics.
 
-* The level should impose a feeling of melancholy for the fallen civilization.
+* The level should impose a feeling of chaos and thriving for survival.
 
 
 Game Context
@@ -63,9 +63,9 @@ Game Context
 **In this section you should include the greater gameplay context for the level, including important and relevant information about levels prior to and after this level.**
 
 
-* This level continues the player’s investigation into the Rosa Abbey, started in the previous level.
+* This level continues the player’s investigation on what's happening around the facility whether its a dialogue or documents lying around the facility.
 
-* The level provides pathing into both levels 2-2 and 2-3.
+* The level provides pathing whether its misdirections or loops and branching in general.
   
 
 Setting
@@ -74,10 +74,9 @@ Setting
 **In this section you should describe the environment and setting for the level. Use relevant environment information from the Game Design Document.**
 
 
-* The entire level takes place in the tower and catacombs of the Rosa Abbey.
-     * Use assets from env_rosaabbey and env_general_castle
-* Lighting should be kept low and focused in important areas.
-* Rain in all exterior areas.
+* The entire level takes place in research underground facility
+     * Use assets from fab bought and saved in library paid and free.
+* Lighting should be kept low and focused in important areas. Since there's a power outage and emergency lights running only around the facility and some fire pits from the destructiona and panic.
 
 Time
 
