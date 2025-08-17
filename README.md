@@ -78,17 +78,20 @@ Setting
      * Use assets from fab bought and saved in library paid and free.
 * Lighting should be kept low and focused in important areas. Since there's a power outage and emergency lights running only around the facility and some fire pits from the destructiona and panic.
 
+
 Time
 
 
 **If your game has seasonal or day/night cycles, include the season and time of day the level should occur in.**
 
+* Since the game is indoors there won't be any seasons at all unless the player escape then the player will see night time and fall season.
 
 Metrics
 
 
 **In this section you should indicate any major metrics difference from the Game Design Document guidelines. If there are no differences, just note that.**
 
+* No difference at all since most of these mechanics are from the game design document also.
 
 Player and player movement
 
@@ -96,7 +99,7 @@ Player and player movement
 **Note any changes to the player or player movement, e.g. extra jump height, increased health, etc.**
 
 
-* The player should continue to suffer from exhaustion effects, as noted in the GDD section 12.3
+* The player should continue to suffer from exhaustion and trauma.
 
 
 World
@@ -104,14 +107,14 @@ World
 **Note any changes to the world, e.g. gravity changes, size differences, etc.**
 
 
-* No major changes.
+* Multi linear level design of a narrow and ruined research facility.
 
 Items
 
 
 **Note any changes to items or item abilities, e.g. this level requires the use of a grappling hook, etc.**
 
-* The Darkness spell (GDD 14.2.4) has duration x1.5 for the whole level.
+* Backpack, smoke bombs, knives, guns, and grenades etc.
 
 
 Narrative & Drama
@@ -129,8 +132,8 @@ Explicit
 
 **In this section you should indicate any narrative/plot elements that will be revealed to the player in a direct, explicit way.**
 
-* The Player must talk with the Lost Monk, and be informed that their sister is still alive.
-* The Player must be informed of the primary abilities of the Staff of Osturian (GDD 15.2.3)
+* The Player must observe the surroundings to understand the narrative of the game through talking to other survivors.
+* The Player must be informed of certain equipments he can find and use against the infected and soldiers that killing everyone.
 
 
 Implicit
@@ -139,17 +142,17 @@ Implicit
 **In this section you should indicate any narrative/plot elements that should be included in the level, but aren’t directly revealed to the player.**
 
 
-* Tower area
+* Research Area
 
-  * The tapestries should imply the story of Osturian (GDD 6.1.1)
+  * Corpses should explain the situation and some whiteboard indicating what kinds of experiments they're working on.
 
-  * There should be indications of a fire.
+  * There should be indications of a fire and destruction showing how everything is in ruins and chaos.
 
-  * All bookshelves should have indications of prior libraries.
+  * All facility rooms should indicate that a lot of people are dying and getting infected.
 
-* Catacombs area
+* Mainhall
 
-  * The symbol of the Cult of Ifran (GDD 6.2.1) should be placed above doorways.
+  * Symbol of last stand where soldiers are still trying to contain the situation.
 
  
 Narrative diagram
